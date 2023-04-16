@@ -125,7 +125,7 @@
                             icon-placement="left"
                             class="bk-layout-component-nmfbfanc link612e2"
                             @click="(...args) => goToDetail(freeLayoutE38dfItem.id, ...args)">
-                            <render-html :html="freeLayoutE38dfItem.title"></render-html></bk-link>
+                            {{freeLayoutE38dfItem.title}}</bk-link>
                     </div>
                     <div style="position: absolute; top: 36px; left: 0px;">
                         <span title="" class="bk-layout-component-nmfbfanc textA17a7">
