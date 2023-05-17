@@ -12,7 +12,7 @@
                     style="width: 28px; height: 28px;"
                 />
             </span>
-            <span class="title-desc" :class="{ 'theme-style': true }">dididada的论坛</span>
+            <span class="title-desc" :class="{ 'theme-style': true }">Lv Yifeng的论坛</span>
         </template>
         <div class="navigation-header" slot="header">
             <ol class="header-nav">
